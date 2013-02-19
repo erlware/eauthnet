@@ -2,7 +2,6 @@
 {application, eauthnet,
  [{description, "Erlang Authorize.net API"},
   {vsn, "0.0.1"},
-  {registered, [epubnub_sup]},
   {applications, [
                   kernel
                   ,stdlib
