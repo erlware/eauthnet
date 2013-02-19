@@ -4,7 +4,7 @@ Author: Jordan Wilberding <jwilberding@gmail.com>
 
 Website: http://blog.erlware.org
 
-Version: 0.0.1
+eauthnet is a an Erlang API for processing payments through Authorize.net (http://authorize.net)
 
 Quick Start
 -----------
