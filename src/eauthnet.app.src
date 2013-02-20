@@ -1,7 +1,7 @@
 %% -*- erlang -*-
 {application, eauthnet,
  [{description, "Erlang Authorize.net API"},
-  {vsn, "0.0.1"},
+  {vsn, "0.0.2"},
   {applications, [
                   kernel
                   ,stdlib
